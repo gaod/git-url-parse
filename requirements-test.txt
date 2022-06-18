@@ -4,3 +4,4 @@ pytest-cov
 pytest-mock
 twine
 yapf==0.21.0
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
